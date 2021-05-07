@@ -1,0 +1,23 @@
+{
+  "name": "acbcl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Franck106/acbcl.git",
+  "author": "Aubay",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "nest-next": "^9.4.0",
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.5",
+    "typescript": "^4.2.4"
+  }
+}
